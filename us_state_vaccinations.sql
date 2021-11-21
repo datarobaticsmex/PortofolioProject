@@ -24,4 +24,8 @@ From PortfolioProject..us_state_vaccinations$
 Order by total_vaccinations DESC
 
 
+Select date, location, total_vaccinations, total_distributed, people_fully_vaccinated
+From PortfolioProject..us_state_vaccinations$
+Where location='california'
+Order by people_fully_vaccinated DESC
 
