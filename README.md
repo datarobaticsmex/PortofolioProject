@@ -1,2 +1,2 @@
 # PortofolioProject Data Analyst
-Repository holds all my queries with my codes for my Portfolio Project.
+Check out my repository which holds all my queries and my codes for my Portfolio Project.
